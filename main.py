@@ -1,3 +1,4 @@
+#Це моя перша програма яка закинута на GitHub
 import os
 from PyQt5.QtWidgets import (
    QApplication, QWidget,
